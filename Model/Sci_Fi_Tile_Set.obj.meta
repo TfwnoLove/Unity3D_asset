@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 4cabbcc7725afb04babfa022e02f3d9b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CeilingTile
+    100002: CeilingTile1
+    100004: CeilingTile2
+    100006: DoorPanel_Left
+    100008: DoorPanel_Right
+    100010: DoorWall
+    100012: GroundTile
+    100014: GroundTile1
+    100016: GroundTile2
+    100018: //RootNode
+    100020: Sci_Fi_Tile_Set_root
+    100022: default
+    400000: CeilingTile
+    400002: CeilingTile1
+    400004: CeilingTile2
+    400006: DoorPanel_Left
+    400008: DoorPanel_Right
+    400010: DoorWall
+    400012: GroundTile
+    400014: GroundTile1
+    400016: GroundTile2
+    400018: //RootNode
+    400020: Sci_Fi_Tile_Set_root
+    400022: default
+    2100000: CeilingTileMat
+    2100002: CeilingTile1Mat
+    2100004: CeilingTile2Mat
+    2100006: DoorPanel_LeftMat
+    2100008: DoorPanel_RightMat
+    2100010: DoorWallMat
+    2100012: GroundTileMat
+    2100014: GroundTile1Mat
+    2100016: GroundTile2Mat
+    2100018: M_SciFi_GroundTile_A_SG
+    2100020: defaultMat
+    2300000: CeilingTile
+    2300002: CeilingTile1
+    2300004: CeilingTile2
+    2300006: DoorPanel_Left
+    2300008: DoorPanel_Right
+    2300010: DoorWall
+    2300012: GroundTile
+    2300014: GroundTile1
+    2300016: GroundTile2
+    2300018: default
+    3300000: CeilingTile
+    3300002: CeilingTile1
+    3300004: CeilingTile2
+    3300006: DoorPanel_Left
+    3300008: DoorPanel_Right
+    3300010: DoorWall
+    3300012: GroundTile
+    3300014: GroundTile1
+    3300016: GroundTile2
+    3300018: default
+    4300000: CeilingTile
+    4300002: CeilingTile1
+    4300004: CeilingTile2
+    4300006: DoorPanel_Left
+    4300008: DoorPanel_Right
+    4300010: DoorWall
+    4300012: GroundTile
+    4300014: GroundTile1
+    4300016: GroundTile2
+    4300018: default
+    6400000: CeilingTile
+    6400002: CeilingTile1
+    6400004: CeilingTile2
+    6400006: DoorPanel_Left
+    6400008: DoorPanel_Right
+    6400010: DoorWall
+    6400012: GroundTile
+    6400014: GroundTile1
+    6400016: GroundTile2
+    6400018: default
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeilingTile1Mat
+    second: {fileID: 2100000, guid: 99a8b95170429a74bac848d9b304d63a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_SciFi_GroundTile_A_SG
+    second: {fileID: 2100000, guid: a5d50a2d08eec574080c34709e0cd78a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat
+    second: {fileID: 2100000, guid: a5d50a2d08eec574080c34709e0cd78a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.005
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
